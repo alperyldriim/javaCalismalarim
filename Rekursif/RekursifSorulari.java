@@ -1,4 +1,4 @@
-public class Rekursif14 {
+public class RekursifSorulari {
     static int toplam=0;
 
     public static void main(String[] args) {
